@@ -13,10 +13,7 @@ profile:
     <p>South Kensington</p>
     <p>Imperial College London</p>
     <p> London, UK</p>
-
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={false}"
-social: false # includes social icons at the bottom of the page
+    
 ---
 
 I am a postdoctoral researcher at the Department of Mathematics, Imperial College London. I did my DPhil at Quantum Group based at the Department of Computer Science, University of Oxford.During my PhD, I worked on topological quantum computation and category theory. In my thesis, I studied and proposed bicategorical structures for topological quantum computation. 
