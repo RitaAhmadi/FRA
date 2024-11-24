@@ -6,11 +6,12 @@ subtitle: <a href='#'>Imperial College London</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>707 Weeks Building</p>
-    <p>South Kensington, Imperial College London</p>
+    <p> Office 707, Weeks Building</p>
+    <p>South Kensington</p>
+    <p>Imperial College London</p>
     <p> London, UK</p>
 
 news: true # includes a list of news items
